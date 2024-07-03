@@ -6,10 +6,10 @@ Task Manager Made with Bootstrap PHP SQL Run With Xampp
 Local 
 
 Install Xammp
-Place All Files Into HTDOCS Folder In Xampp
+Place All Files Into the HTDOCS Folder In Xampp
 Open Xampp Run SQL and Apache
-Create DataBase with provided Import 
-Open Project in google with localhost/(path)
+Create a database with the provided Import 
+Open Project in Google with localhost/(path)
 
 OR
 
@@ -17,7 +17,7 @@ Website
 
 Open link 
 https://torturing-missile.000webhostapp.com/index.php
-admin acess not available to everyone, message for requests
+- admin access is not available to everyone, message for requests
 
 
 Enjoy
