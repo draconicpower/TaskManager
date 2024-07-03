@@ -17,6 +17,7 @@ Website
 
 Open link 
 https://torturing-missile.000webhostapp.com/index.php
+admin acess not available to everyone, message for requests
 
 
 Enjoy
